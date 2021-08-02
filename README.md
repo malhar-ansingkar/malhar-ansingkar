@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @malhar-ansingkar
-- 👀 I’m interested in working on projects related to web development
-- 🌱 I’m currently learning react.js
-- 💞️ I’m looking to collaborate on front end website projects
+- 👀 I’m interested in working on Front-end Technologies
+- 🌱 I’m currently Learning react.js
+- 💞️ I’m looking to collaborate on Web-projects 
 - 📫 How to reach me malharansingkar7057@gmail.com
 
 <!---
