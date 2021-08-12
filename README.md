@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @malhar-ansingkar
-- 👀 I’m interested in working on Front-end Technologies
-- 🌱 I’m currently Learning react.js
-- 💞️ I’m looking to collaborate on Web-projects 
+- 😃 I'm not MEAN I'm MERN 
+- 👀 I’m working on react projects
+- 🌱 I’m currently Learning Node.js
+- 💞️ I’m looking to collaborate on projects on MERN stack
 - 📫 How to reach me malharansingkar7057@gmail.com
 
 <!---
